@@ -12,7 +12,10 @@ Learning by exploration
 
 Learning by exploration covers a wide range of techniques and frameworks, from reinforcement learning to evolutionary methods. A crucial aspect for the success of these techniques is to represent the movement or the policy in a compact and adaptive manner, by leveraging prior knowledge about movements and skills. The project proposes to test different representations by using a cross-entropy method (CEM), which can be viewed as one of the most simple form of learning by self-refinement. The movement will be formed as a superposition of basis functions. Two representations will be tested: radial basis functions and Fourier series. 
 
-----
+
+--
+
 [1]S. Calinon, “Mixture Models for the Analysis, Edition, and Synthesis of Continuous Time Series,” in Mixture Models and Applications, N. Bouguila and W. Fan, Eds. Cham: Springer International Publishing, 2020, pp. 39–57.
+
 [2]S. Calinon and D. Lee, “Learning Control,” in Humanoid Robotics: A Reference, A. Goswami and P. Vadakkepat, Eds. Dordrecht: Springer Netherlands, 2017, pp. 1–52.
 
