@@ -11,3 +11,7 @@ In time series encoding, the use of Fourier basis functions provides useful conn
 Learning by exploration 
 
 Learning by exploration covers a wide range of techniques and frameworks, from reinforcement learning to evolutionary methods. A crucial aspect for the success of these techniques is to represent the movement or the policy in a compact and adaptive manner, by leveraging prior knowledge about movements and skills. The project proposes to test different representations by using a cross-entropy method (CEM), which can be viewed as one of the most simple form of learning by self-refinement. The movement will be formed as a superposition of basis functions. Two representations will be tested: radial basis functions and Fourier series. 
+
+----
+Learning Control
+Sylvain Calinon and Dongheui Lee
