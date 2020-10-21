@@ -17,5 +17,5 @@ Learning by exploration covers a wide range of techniques and frameworks, from r
 
 [[1]](http://calinon.ch/papers/Calinon_MMchapter2019.pdf) S. Calinon, “Mixture Models for the Analysis, Edition, and Synthesis of Continuous Time Series,” in Mixture Models and Applications, N. Bouguila and W. Fan, Eds. Cham: Springer International Publishing, 2020, pp. 39–57.
 
-[[2]](calinon.ch/papers/Calinon-Lee-learningControl.pdf) S. Calinon and D. Lee, “Learning Control,” in Humanoid Robotics: A Reference, A. Goswami and P. Vadakkepat, Eds. Dordrecht: Springer Netherlands, 2017, pp. 1–52.
+[[2]](http://calinon.ch/papers/Calinon-Lee-learningControl.pdf) S. Calinon and D. Lee, “Learning Control,” in Humanoid Robotics: A Reference, A. Goswami and P. Vadakkepat, Eds. Dordrecht: Springer Netherlands, 2017, pp. 1–52.
 
